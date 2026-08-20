@@ -1,9 +1,3 @@
-ko<img width="1920" height="1080" alt="1000133024" src="https://github.com/user-attachments/assets/6060b01d-61f9-47c8-bc67-098e3b4a0c31" />
-<img width="1920" height="1080" alt="1000133026" src="https://github.com/user-attachments/assets/43714af1-9f3e-4f30-a397-15e9ea2a73ad" />
-<img width="1920" height="1080" alt="1000133025" src="https://github.com/user-attachments/assets/6f0c0e82-61ac-48c2-990f-fc1a4a503edb" />
-<img width="1920" height="1080" alt="1000133023" src="https://github.com/user-attachments/assets/ac7b3649-242c-49b8-befd-9afedf12b57a" />
-Here is a **ready-to-use `README.md`** for your GitHub project:
-
 # PWM Based DC-DC Converter Control Using Verilog
 
 ## 📌 Project Overview
@@ -197,3 +191,7 @@ This project can be extended by adding:
 A digital PWM generator was successfully designed using **Verilog HDL** and simulated using **Xilinx Vivado**. The project demonstrates approximately **25%, 50%, and 75% duty cycles** using an 8-bit counter and comparator-based architecture.
 
 The project provides a simple foundation for understanding **RTL design, PWM generation, FPGA-based control, and digital power electronics applications**.
+<img width="1920" height="1080" alt="1000133023" src="https://github.com/user-attachments/assets/e98f21b1-49b4-46ef-a57e-ee8d28efc674" />
+<img width="1920" height="1080" alt="1000133024" src="https://github.com/user-attachments/assets/c90d0a79-4ab1-4023-acdd-d5104cf8f291" />
+<img width="1920" height="1080" alt="1000133026" src="https://github.com/user-attachments/assets/b0594e2c-ea62-4e51-a0a7-5707a52bbcb1" />
+<img width="1920" height="1080" alt="1000133025" src="https://github.com/user-attachments/assets/8d1a967e-e23a-47c2-ba4b-f906adbcd588" />
