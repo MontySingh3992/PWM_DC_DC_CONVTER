@@ -1,3 +1,7 @@
+ko<img width="1920" height="1080" alt="1000133024" src="https://github.com/user-attachments/assets/6060b01d-61f9-47c8-bc67-098e3b4a0c31" />
+<img width="1920" height="1080" alt="1000133026" src="https://github.com/user-attachments/assets/43714af1-9f3e-4f30-a397-15e9ea2a73ad" />
+<img width="1920" height="1080" alt="1000133025" src="https://github.com/user-attachments/assets/6f0c0e82-61ac-48c2-990f-fc1a4a503edb" />
+<img width="1920" height="1080" alt="1000133023" src="https://github.com/user-attachments/assets/ac7b3649-242c-49b8-befd-9afedf12b57a" />
 Here is a **ready-to-use `README.md`** for your GitHub project:
 
 # PWM Based DC-DC Converter Control Using Verilog
